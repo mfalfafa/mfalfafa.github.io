@@ -28,3 +28,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		owesome pic - https://unsplash.com/search/photos/introduction
